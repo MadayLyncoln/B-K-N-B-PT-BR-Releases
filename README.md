@@ -29,6 +29,9 @@ Cada release publica um arquivo `.zip` com a estrutura pronta para copiar para a
 
 Esta tradução é um projeto de fã. Ela usa os arquivos de localização do jogo e foi preparada para o fluxo do reNut.
 
+E minhas sinceras gratidão por está disponibilizando seu tempo e trabalho a nos gamers.
+
 Projeto reNut original:
 
 https://github.com/masterspike52/reNut
+
